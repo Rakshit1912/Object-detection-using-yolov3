@@ -1,1 +1,1 @@
-# Detecting-objecs-persons-and-dogs-from-images-using-yolov3
+Detecting persons and dogs from images
